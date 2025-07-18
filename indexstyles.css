@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    width: 600px;
+    margin: 50px auto;
+    border: forestgreen 5px solid;
+}
+
+h1 {
+    font-size: 40px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+    margin: 0 auto 25px;
+    text-align: center;
+}
